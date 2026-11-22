@@ -1,0 +1,4 @@
+torch>=2.2
+fastapi>=0.110
+uvicorn[standard]>=0.29
+sacrebleu>=2.4   # training / BLEU only
